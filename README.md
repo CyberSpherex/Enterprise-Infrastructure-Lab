@@ -6,7 +6,10 @@ A robust, enterprise-grade multi-site **Layer 2 and Layer 3 network architecture
 
 ## 🧠 Lab Objectives
 
-- Implement a **redundant core switching architecture** utilizing Layer 3 multi-layer switches.    
+- Implement a **redundant core switching architecture** utilizing Layer 3 multi-layer switches.
+
+
+
 - Establish **VLAN segmentation** for departmental isolation (IT, HR, Sales, Management).
     
       
