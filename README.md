@@ -250,7 +250,14 @@ A robust, enterprise-grade multi-site **Layer 2 and Layer 3 network architecture
     
 - `Network_Diagram.png` - High-resolution logical network topology diagram.
     
-      
+
+## 📋 Prerequisites & Image Requirements
+
+To run this topology in GNS3, the following device images or appliances are recommended:
+
+* **Cisco Routers:** IOSv (vIOS-L3) / c3660 (Dynamips)
+* **Cisco Switches:** Cisco IOU / IOL (L2 & L3 Multi-Layer Switch Images)
+* **End Devices:** Virtual PC Simulator (VPCS) & Ubuntu Linux (for host testing & SSH/services)
     
 
 ## 🔗 Connect
