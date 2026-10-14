@@ -989,7 +989,7 @@ CORE2# configure terminal
 CORE2(config)#interface ethernet 1/0
 CORE2(config-if)#description Transit Link to EDGE2 (Gi0/0)
 CORE2(config-if)#no switchport 
-CORE2(config-if)#ip address 10.0.2.1 255.255.255.0
+CORE2(config-if)#ip address 10.0.2.1 255.255.255.252
 CORE2(config-if)#no shutdown 
 CORE2(config-if)#end
 ```
